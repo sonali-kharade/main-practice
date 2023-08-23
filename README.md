@@ -1,2 +1,2 @@
 # main-practice
-tis is a practice
+this is a practice
